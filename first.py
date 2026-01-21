@@ -1,1 +1,2 @@
-print("hi hi hi")
+print("hi  hi")
+print("new program")
